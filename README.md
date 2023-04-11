@@ -1,2 +1,2 @@
-# Music-website-
-I developed a music website by using html , CSS and JavaScript. 
+# Music-website
+In this project, I created a music website along with radio and podcast through html, css and javascript.
